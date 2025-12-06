@@ -20,7 +20,7 @@
 - Interfaz web con Gradio + fotos reales de comida
 
 ### Archivos
-- `NUTRIGEN_IA.ipynb` → notebook principal
+- `Taller3.ipynb` → notebook principal
 - `daily_food_nutrition_dataset.csv` → +500 alimentos con valores nutricionales
 - Imágenes de platos saludables
 
