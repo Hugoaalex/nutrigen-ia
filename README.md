@@ -13,7 +13,7 @@
 **Profesor:** Laura Alejandra Sánchez - 2025
 
 ## Cómo ejecutarlo en Google Colab
-[https://colab.research.google.net/github/tuusuario/nutrigen-ia/blob/main/NUTRIGEN_IA.ipynb](https://colab.research.google.com/drive/1SJJcZE0IHs30MmxxwZwhxPS-bW5NdW0f#scrollTo=pqVx8j6EIK2i)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SJJcZE0IHs30MmxxwZwhxPS-bW5NdW0f#scrollTo=pqVx8j6EIK2i)
 
 
 ### Funcionalidades
