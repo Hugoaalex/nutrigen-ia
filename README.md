@@ -12,6 +12,9 @@
 **Universidad:** IU Digital de Antioquia  
 **Profesor:** Laura Alejandra Sánchez - 2025
 
+## Cómo ejecutarlo en Google Colab
+[https://colab.research.google.net/github/tuusuario/nutrigen-ia/blob/main/NUTRIGEN_IA.ipynb](https://colab.research.google.com/drive/1SJJcZE0IHs30MmxxwZwhxPS-bW5NdW0f#scrollTo=pqVx8j6EIK2i)
+
 
 ### Funcionalidades
 - Recomendación personalizada según edad, obesidad, ejercicio, etc.
