@@ -4,16 +4,16 @@
 **Recomendador inteligente de alimentación saludable + consejo diario**
 
 ### Autores
-- Luisa Carvajal  
-- Valentina Ayala  
-- **Hugo Carvajal** (hugo.alexander)
+- **Luisa Carvajal**  
+- **Valentina Ayala**  
+- **Hugo Carvajal** 
 
 **Materia:** Deep Learning Avanzado  
 **Universidad:** IU Digital de Antioquia  
 **Profesor:** Laura Alejandra Sánchez - 2025
 
 ### Ejecutar la app en 1 clic
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugoalexander/nutrigen-ia/blob/main/NUTRIGEN_IA.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1SJJcZE0IHs30MmxxwZwhxPS-bW5NdW0f?usp=sharing))](https://colab.research.google.com/github/hugoalexander/nutrigen-ia/blob/main/NUTRIGEN_IA.ipynb)
 
 ### Funcionalidades
 - Recomendación personalizada según edad, obesidad, ejercicio, etc.
